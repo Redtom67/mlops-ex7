@@ -1,4 +1,7 @@
 [core]
-    remote = origin
+    remote = myazure
 ['remote "origin"']
     url = https://dagshub.com/Redtom67/mlops-ex7.dvc
+['remote "myazure"']
+    url = azure://dvc
+    account_name = wut2026
