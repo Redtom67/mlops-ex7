@@ -1,0 +1,10 @@
+.venv/
+.git/
+.dvc/
+data/
+model/
+*.ipynb
+.ipynb_checkpoints/
+__pycache__/
+.github/
+tests/

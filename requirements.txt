@@ -1,0 +1,9 @@
+# Runtime dependencies of the API image.
+# mlflow / scikit-learn / skops versions match the ones used to train the model.
+fastapi==0.163.1
+uvicorn==0.54.0
+mlflow-skinny==3.18.0
+scikit-learn==1.9.1
+skops==0.16.0
+numpy
+pandas
